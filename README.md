@@ -11,6 +11,11 @@ PATH="$HOME/.cask/bin:$PATH"
 ```
 を追加．
 
+```
+cask upgrade
+```
+を実行後，
+
 .emacs.d/内で，
 ```
 cask install
